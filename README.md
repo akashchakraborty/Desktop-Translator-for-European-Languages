@@ -8,4 +8,6 @@ For this to run completely on python we need four additional libraries:
     3. SpeechRecognition
     5. PyQT5
     
+You will also need the icon image to be in the same directory as that of the code.
+    
 NOTE : There can be an issue with the installation of PyAudio. Google it up if any issue of Visualstudio come with windows user.
